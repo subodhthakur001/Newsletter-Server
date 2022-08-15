@@ -1,0 +1,17 @@
+body
+{
+    background-color: black;
+    text-align: center;
+
+}
+.head
+{
+    color: aquamarine;
+    padding: 10%;
+    font-family: 'Anton', sans-serif;
+
+}
+p
+{
+    color: white;
+}
